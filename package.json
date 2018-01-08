@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/seedgen",
+  "version": "1.0.0",
+  "description": "Generate realistic seed/fixture data for databases",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/seedgen.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "seedgen": "bin/cli.js"
+  }
+}

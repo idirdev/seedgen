@@ -18,5 +18,9 @@
   },
   "bin": {
     "seedgen": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/seedgen",
+  "bugs": {
+    "url": "https://github.com/idirdev/seedgen/issues"
   }
 }
